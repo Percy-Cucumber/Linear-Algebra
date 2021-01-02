@@ -1,3 +1,3 @@
 # Linear-Algebra
 
-Code from Richard Hoshino's Linear Algebra class.
+Maxima and Python from Richard Hoshino's Linear Algebra class.
